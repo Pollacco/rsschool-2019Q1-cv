@@ -6,7 +6,7 @@
 
 4. JavaScript, HTML5, CSS3, Git, VSCode;
  
-5. Examples of my codes can be found in open repositories on my [Github] (https://github.com/Pollacco?tab=repositories);
+5. Examples of my codes can be found in open repositories on my Github: https://github.com/Pollacco?tab=repositories;
 
 6. My experience at the moment is limited to The Rolling Scopes materials. But this is a cool school, so my experience is growing fast;
 
